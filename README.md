@@ -1,4 +1,4 @@
-#  Sales Data Analysis Using Microsoft Excel
+#  Sales Data Analysis Using Microsoft Excel 2016
 
 ##  Project Overview
 
@@ -33,7 +33,7 @@ The main objectives of this project are:
 
 | Tool | Purpose |
 |---|---|
-| Microsoft Excel | Data analysis and visualization |
+| Microsoft Excel 2016 | Data analysis and visualization |
 | Excel Formulas | Calculations and analysis |
 | Pivot Tables | Data summarization |
 | Pivot Charts | Data visualization |
